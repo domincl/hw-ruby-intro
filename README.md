@@ -1,4 +1,5 @@
-Ruby Intro
+Ruby Intro 
+[![Build Status](https://travis-ci.org/domincl/hw-ruby-intro.svg?branch=master)](https://travis-ci.org/domincl/hw-ruby-intro)
 =============
 
 This 3-part homework gives some basic practice in Ruby as well as
